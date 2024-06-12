@@ -1,1 +1,2 @@
-ved.is-a.dev
+[ved.rocks!
+](https://ved.rocks/)
