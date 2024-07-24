@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,express,c,java,postresql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,express,c,java,mysql,flask" /><br>
 </div>
 
 <br/>
