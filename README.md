@@ -1,25 +1,21 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ved+Patel!;" />
-</h1>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,express,c,java,mysql,flask" /><br>
-</div>
 
-<hr/>
+# Hi, I'm Ved! 👋
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ved-patel226&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ved-patel226&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ved-patel226&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
+## 🚀 About Me
+I'm a 13yo full stack developer 
 
-<hr/>
 
-<br/>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ved.rocks)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=talk2ved11@gmail.com&su&body&tf=cm)
+## 🛠 Skills
+
+#### Programming Languages
+![Python](https://skillicons.dev/icons?i=python,html,css,scss,ts,js&theme=dark)
+
+#### Frameworks and Libraries
+![React](https://skillicons.dev/icons?i=react,flask,pytorch,tensorflow&theme=dark)
+
+#### Tools and Platforms
+![MongoDB](https://skillicons.dev/icons?i=mongo,raspberrypi,vite&theme=dark)
