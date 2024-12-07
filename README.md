@@ -8,12 +8,6 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,express,c,java,mysql,flask" /><br>
 </div>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
