@@ -12,7 +12,7 @@ I'm a 13yo full stack developer
 ## 🛠 Skills
 
 #### Programming Languages
-![Python](https://skillicons.dev/icons?i=python,html,css,scss,ts,js&theme=dark)
+![Python](https://skillicons.dev/icons?i=python,html,css,scss,ts,js,rust&theme=dark)
 
 #### Frameworks and Libraries
 ![React](https://skillicons.dev/icons?i=react,flask,pytorch,tensorflow&theme=dark)
